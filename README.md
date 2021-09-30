@@ -1,0 +1,2 @@
+# HOME-NULL
+Cool Script
